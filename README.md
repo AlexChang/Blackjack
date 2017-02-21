@@ -1,2 +1,2 @@
 # Blackjack
-p2.cpp
+A simple card game, course project of CS125.
